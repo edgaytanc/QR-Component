@@ -1,0 +1,2 @@
+/home/david/Documentos/javascript/qr-code-component-main/index.html
+/home/david/Documentos/javascript/qr-code-component-main/design/desktop-design.jpg
